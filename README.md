@@ -24,8 +24,7 @@ The dataset contains information on various drug regimens, tumor volumes, metast
 
 pip install pandas
 pip install matplotlib
-pip install seaborn
-pip install numpy
+pip install scipy
 
 
 ### Executing program
