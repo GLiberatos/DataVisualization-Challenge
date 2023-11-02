@@ -15,7 +15,7 @@ The dataset contains information on various drug regimens, tumor volumes, metast
 - Python 3
 - pandas library
 - matplotlib library
-- scipy libraryy
+- scipy library
 
 ### Installing
 
